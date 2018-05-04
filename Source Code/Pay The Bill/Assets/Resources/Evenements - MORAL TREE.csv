@@ -1,0 +1,189 @@
+M_001,BG_1.png,,,M_001_A,M_001_B,,Vous devez payer 7500€ pour votre inscription scolaire,Rentrée ! ,0
+M_001_A,,0,-3,M_002,,-7500,Payez en une fois,,
+M_001_B,,0,-1,M_033,,-750,Payez en 10 fois,,
+M_002,BG_1.png,,,M_002_A,M_002_B,,Il faudrait trouver un stage pour accroitre vos revenus,Besoin d'argent,4
+M_002_A,,2,-2,M_003,,,Commencer les recherches,,
+M_002_B,,0_2,-1_1,M_007,,,Vous aurez le temps plus tard,,
+M_003,BG_4.png,,,M_003_A,M_003_B,,Votre responsable pédagogique vous conseille de bien préparer vos recherches,Conseils,10
+M_003_A,,2,-1,M_004,,,Faire votre CV,,
+M_003_B,,0_2,1_-2,M_011,,-150,Développer un site internet,,
+M_004,BG_1.png,,,M_004_A,M_004_B,,"Votre CV terminé, vous vous demander comment bien l'utiliser",Recherche active ,18
+M_004_A,,1,1,M_005,,,Vous enregistrer sur Linkedin,,
+M_004_B,,0_1,-1_1,M_016,,,Demander un coup de pouce à votre école,,
+M_005,BG_5.png,,,M_005_A,M_005_B,,Vous lisez une annonce dans votre boulangerie pour de l'aide aux devoirs scolaires,Petite annonce ! ,22
+M_005_A,,1_2,1_-1,M_006,,120,Appeler le numéro,,
+M_005_B,,0,-2,M_015,,,Ignorer l'annonce,,
+M_006,BG_1.png,,,M_006_A,M_006_B,,Vous avez beaucoup de travail en ce moment,Overbooké,27
+M_006_A,,0_2,2_-2,,,,Faire des heures supp' sur place,,
+M_006_B,,1_2,-1_2,,,,Rentrez chez vous vous morfondre,,
+M_007,BG_5.png,,,M_007_A,M_007_B,,Vous lisez une annonce dans votre boulangerie pour de l'aide aux devoirs scolaires,Petite annonce ! ,10
+M_007_A,,1_2,1_-1,M_008,,120,Appeler le numéro,,
+M_007_B,,0,-2,M_026,,,Ignorer l'annonce,,
+M_008,BG_1.png,,,M_008_A,M_008_B,,C'est la game week !! ,Overbooké,18
+M_008_A,,0_2,2_-2,M_009,,,Faire des heures supp' sur place,,
+M_008_B,,1_2,-1_2,M_023,,,Rentrer chez vous et continuer de travailler,,
+M_009,BG_1.png,,,M_009_A,M_009_B,,L'un de vos sites favoris recherche un chroniqueur sur la base du bénévolat,Chroniqueur ?,22
+M_009_A,,0_1_2,1_1_-1,M_010,,,Les contacter,,
+M_009_B,,0_2,-2_-1,M_022,,,Travailler gratuitement ? Non !,,
+M_010,BG_3.png,,,M_010_A,M_010_B,,Vous attrapez la gastro ! ,Maladie,27
+M_010_A,,0_2,-1_2,,,,Je devrai aller voir un médecin,,
+M_010_B,,0_2,-1_-3,,,,"Tant pis, doliprane et go !",,
+M_011,BG_1.png,,,M_011_A,M_011_B,,"Vous recevez un coup de fil d'un RH qui a vu votre site, il vous propose un stage",Appel impromptu,18
+M_011_A,,0_1_2,2_1_1,M_012,,800,Accepter le stage,,
+M_011_B,,1,-2,M_019,,,Décliner l'offre prétextant de chercher mieux,,
+M_012,BG_4.png,,,M_012_A,M_012_B,,"Votre stage arrive à échéance, votre employeur vous propose une alternance",Proposition,22
+M_012_A,,0_2,2_-1,M_013,,1500,Accepter l'alternance,,
+M_012_B,,1_2,-2_2,M_014,,,Vous avez le droit de refuser,,
+M_013,BG_4.png,,,M_013_A,M_013_B,,"Un collègue de travail quitte l'entreprise, un pot de départ est organisé",Pot de départ !,27
+M_013_A,,1_2,3_-2,,,-50,Participer à l'organisation,,
+M_013_B,,0_1,-1_-2,,,,Ignorer l'évènement,,
+M_014,BG_1.png,,,M_014_A,M_014_B,,Vous n'avez pas entendu votre réveil ce matin,Retard ! ,27
+M_014_A,,0_2,-3_1,,,,Arriver en cours sans se doucher,,
+M_014_B,,1_2,-1_3,,,,Sécher la matinée,,
+M_015,BG_4.png,,,M_015_A,M_015_B,,Vous trouvez enfin un stage ! ,Stage !,27
+M_015_A,,0_2,1_-1,,,300,Vous ne vous investissez pas plus que ça,,
+M_015_B,,0_1_2,-1_2_-2,,,450,Vous faites des heures supp',,
+M_016,BG_4.png,,,M_016_A,M_016_B,,Vous trouvez enfin un stage ! ,Stage !,22
+M_016_A,,0_2,1_-1,M_017,,300,Vous ne vous investissez pas plus que ça,,
+M_016_B,,0_1_2,-1_2_-2,M_018,,450,Vous faites des heures supp',,
+M_017,BG_5.png,,,M_017_A,M_017_B,,Le jeu que vous attendiez tant est enfin sorti,Sortie de jeu !,27
+M_017_A,,0_2,3_-2,,,-80,Foncez l'acheter à la FNOC,,
+M_017_B,,0,-3,,,,Vous ne pouvez pas vous permettre ce plaisir,,
+M_018,BG_4.png,,,M_018_A,M_018_B,,Votre employeur souhaite vous donner une promotion ou une augmentation,Patron content ,27
+M_018_A,,0_1_2,2_2_-3,,,1200,Accepter la promotion,,
+M_018_B,,0_1_2,1_1_1,,,1750,Accepter l'augmentation,,
+M_019,BG_3.png,,,M_019_A,M_019_B,,Vous attrapez la grippe ! ,Maladie,22
+M_019_A,,0_2,-1_2,M_020,,,Je devrai aller voir un médecin,,
+M_019_B,,0_2,-1_-3,M_021,,,"Tant pis, doliprane et go !",,
+M_020,BG_1.png,,,M_020_A,M_020_B,,La facture du médecin est arrivée,Facture médecin,27
+M_020_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_020_B,,0_2,-1_-1,,,,Vous demandez de l'aide à vos parents,,
+M_021,BG_4.png,,,M_021_A,M_021_B,,Nouveau projet à l'école,Ecole !,27
+M_021_A,,0_1_2,3_2_-2,,,,Vous prenez les devants et guidez votre team,,
+M_021_B,,1_2,-2_-1,,,,Vous ne faites que ce qu'on vous demande,,
+M_022,BG_1.png,,,M_022_A,M_022_B,,On vous a recommendé pour de l'aide aux devoirs,Aide scolaire,27
+M_022_A,,1_2,2_-1,,,150,"Accepter, vous avez besoin d'argent",,
+M_022_B,,0_2,-1_2,,,,"Refuser, vous avez trop de travail en ce moment",,
+M_023,BG_3.png,,,M_023_A,M_023_B,,Vous attrapez la grippe ! ,Maladie,22
+M_023_A,,0_2,-1_2,M_024,,,Je devrai aller voir un médecin,,
+M_023_B,,0_2,-1_-3,M_025,,,"Tant pis, doliprane et go !",,
+M_024,BG_1.png,,,M_024_A,M_024_B,,La facture du médecin est arrivée,Facture médecin,27
+M_024_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_024_B,,0_2,-1_-1,,,,Vous demandez de l'aide à vos parents,,
+M_025,BG_4.png,,,M_025_A,M_025_B,,Votre responsable pédagogique vous conseille de bien préparer vos recherches,Conseil,27
+M_025_A,,2,-1,,,,Faire votre CV,,
+M_025_B,,0_2,1_-2,,,-150,Développer un site internet,,
+M_026,BG_4.png,,,M_026_A,M_026_B,,Nouveau projet à l'école,Ecole ! ,18
+M_026_A,,0_1_2,3_2_-2,M_027,,,Vous prenez les devants et guidez votre team,,
+M_026_B,,1_2,-2_-1,M_030,,,Vous ne faites que ce qu'on vous demande,,
+M_027,BG_5.png,,,M_027_A,M_027_B,,Le jeu que vous attendiez tant est enfin sorti,Fry Car 5,22
+M_027_A,,0_2,3_-2,M_028,,-80,Foncez l'acheter à la FNOC,,
+M_027_B,,0,-3,M_029,,,Vous ne pouvez pas vous permettre ce plaisir,,
+M_028,BG_1.png,,,M_028_A,M_028_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,27
+M_028_A,,0_2,-3_1,,,,Arriver en cours sans se doucher,,
+M_028_B,,1_2,-1_3,,,,Sécher la matinée,,
+M_029,BG_1.png,,,M_029_A,M_029_B,,Vous êtes en retard sur vos devoirs,Devoirs maison,27
+M_029_A,,0_2,3_-2,,,,Faire une nuit blanche pour les terminer,,
+M_029_B,,0_1_2,-2_-1_2,,,,Bâcler le travail,,
+M_030,BG_1.png,,,M_030_A,M_030_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,22
+M_030_A,,0_2,-3_1,M_031,,,Arriver en cours sans se doucher,,
+M_030_B,,1_2,-1_3,M_032,,,Sécher la matinée,,
+M_031,BG_3.png,,,M_031_A,M_031_B,,Vous attrapez la grippe ! ,Maladie,27
+M_031_A,,0_2,-1_2,,,,Je devrai aller voir un médecin,,
+M_031_B,,0_2,-1_-3,,,,"Tant pis, doliprane et go !",,
+M_032,BG_1.png,,,M_032_A,M_032_B,,L'un de vos sites favoris recherche un chroniqueur sur la base du bénévolat,Chroniqueur ? ,27
+M_032_A,,0_1_2,1_1_-1,,,100,Les contacter,,
+M_032_B,,0_2,-2_-1,,,,Ignorer l'annonce,,
+M_033,BG_1.png,,,M_033_A,M_033_B,,Il faudrait trouver un stage pour accroitre vos revenus,Stage !,4
+M_033_A,,2,-2,M_049,,,Commencer à chercher dès maintenant,,
+M_033_B,,0_2,-1_1,M_034,,,Vous aurez le temps plus tard,,
+M_034,BG_1.png,,,M_034_A,M_034_B,,L'un de vos sites favoris recherche un chroniqueur sur la base du volontariat,Chroniqueur ?,10
+M_034_A,,0_1_2,1_1_-1,M_042,,100,Les contacter,,
+M_034_B,,0_2,-2_-1,M_035,,,Ignorer l'annonce,,
+M_035,BG_5.png,,,M_035_A,M_035_B,,Le jeu que vous attendiez tant est enfin sorti !,Fry Car 5,18
+M_035_A,,0_2,3_-2,M_039,,-80,Foncer l'acheter à la FNOC,,
+M_035_B,,0,-3,M_036,,,Vous ne pouvez pas vous permettre ce plaisir,,
+M_036,BG_4.png,,,M_036_A,M_036_B,,Votre responsable pédagogique vous conseille de bien préparer vos recherches,Recherches actives,22
+M_036_A,,2,-1,M_037,,,Faire votre CV,,
+M_036_B,,0_2,1_-2,M_038,,-150,Développer un site internet,,
+M_037,BG_1.png,,,M_037_A,M_037_B,,Vous trouvez enfin un stage !,Stage,27
+M_037_A,,0_2,1_-1,,,,Vous ne vous investissez pas plus que ça,,
+M_037_B,,0_1_2,-1_2_-2,,,,Vous faites des heures supp',,
+M_038,BG_4.png,,,M_038_A,M_038_B,,"Vous recevez un coup de fil d'un RH qui a vu votre site, il vous propose un stage",Appel,27
+M_038_A,,0_1_2,2_1_1,,,800,Accepter le stage,,
+M_038_B,,1,-2,,,,"Décliner l'offre, prétextant chercher mieux",,
+M_039,BG_3.png,,,M_039_A,M_039_B,,Vous attrapez la grippe !,Maladie,22
+M_039_A,,0_2,-1_2,M_040,,,Je devrai aller voir le médecin,,
+M_039_B,,0_2,-1_-3,M_041,,,"Tant pis, doliprane et go !",,
+M_040,BG_1.png,,,M_040_A,M_040_B,,La facture du médecin est arrivée,Facture médicale,27
+M_040_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_040_B,,0_2,-1_-1,,,,Demandez de l'aide à vos parents,,
+M_041,BG_1.png,,,M_041_A,M_041_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,27
+M_041_A,,0_2,-3_1,,,,Arriver en cours sans se doucher,,
+M_041_B,,1_2,-1_3,,,,Sécher la matinée,,
+M_042,BG_3.png,,,M_042_A,M_042_B,,Vous attrapez la grippe !,Maladie,18
+M_042_A,,0_2,-1_2,M_046,,,Je devrai aller voir le médecin,,
+M_042_B,,0_2,-1_-3,M_043,,,"Tant pis, doliprane et go !",,
+M_043,BG_1.png,,,M_043_A,M_043_B,,Vous êtes en retard sur vos devoirs,Devoirs maison,22
+M_043_A,,0_2,3_-2,M_044,,,Faire nuit blanche pour les terminer,,
+M_043_B,,0_1_2,-2_-1_2,M_045,,,Bacler le travail,,
+M_044,BG_1.png,,,M_044_A,M_044_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,27
+M_044_A,,0_2,-3_1,,,,Arriver en cours sans se doucher,,
+M_044_B,,1_2,-1_3,,,,Sécher la matinée,,
+M_045,BG_4.png,,,M_045_A,M_045_B,,Votre responsable pédagogique vous conseille de bien préparer vos recherches,Conseils,27
+M_045_A,,2,-1,,,,Faire votre CV,,
+M_045_B,,0_2,1_-2,,,-150,Développer un site internet,,
+M_046,BG_4.png,,,M_046_A,M_046_B,,Vous trouvez enfin un stage !,Stage,22
+M_046_A,,0_2,1_-1,M_047,,300,Vous ne vous investissez pas plus que ça,,
+M_046_B,,0_1_2,-1_2_-2,M_048,,450,Vous faites des heures supp',,
+M_047,BG_1.png,,,M_047_A,M_047_B,,La facture du médecin est arrivée,Facture médicale,27
+M_047_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_047_B,,0_2,-1_-1,,,,Demandez de l'aide à vos parents,,
+M_048,BG_1.png,,,M_048_A,M_048_B,,La facture du médecin est arrivée,Facture médicale,27
+M_048_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_048_B,,0_2,-1_-1,,,,Demandez de l'aide à vos parents,,
+M_049,BG_4.png,,,M_049_A,M_049_B,,Votre responsable pédagogique vous conseille de bien préparer vos recherches,Conseils,10
+M_049_A,,2,-1,M_057,,,Faire votre CV,,
+M_049_B,,0_2,1_-2,M_050,,-150,Développer un site internet,,
+M_050,BG_4.png,,,M_050_A,M_050_B,,Vous trouvez enfin un stage !,Stage,18
+M_050_A,,0_2,1_-1,M_054,,300,Vous ne vous investissez pas plus que ça,,
+M_050_B,,0_1_2,-1_2_-2,M_051,,450,Vous faites des heures supp',,
+M_051,BG_3.png,,,M_051_A,M_051_B,,Vous attrapez la grippe ! ,Maladie,22
+M_051_A,,0_2,3_-2,M_052,,,Je devrai aller voir le médecin,,
+M_051_B,,0,-3,M_053,,,"Tant pis, doliprane et go !",,
+M_052,BG_1.png,,,M_052_A,M_052_B,,La facture du médecin est arrivée,Facture médicale,27
+M_052_A,,0,-2,,,-250,Vous payez de vos poches,,
+M_052_B,,0_2,-1_-1,,,,Demandez de l'aide à vos parents,,
+M_053,BG_5.png,,,M_053_A,M_053_B,,Le jeu que vous attendiez tant est enfin sorti !,Fry Car 5,27
+M_053_A,,0_2,3_-2,,,-80,Foncer l'acheter à la FNOC,,
+M_053_B,,0,-3,,,,Vous ne pouvez pas vous permettre ce plaisir,,
+M_054,BG_4.png,,,M_054_A,M_054_B,,Nouveau projet à l'école,Ecole,22
+M_054_A,,0_1_2,3_2_-2,M_055,,,Vous prenez les devants et guidez votre équipe,,
+M_054_B,,1_2,-2_-1,M_056,,,Vous ne faites que ce qu'on vous demande,,
+M_055,BG_1.png,,,M_055_A,M_055_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,27
+M_055_A,,0_2,-3_1,,,,Arriver en cours sans se doucher,,
+M_055_B,,1_2,-1_3,,,,Sécher la matinée,,
+M_056,BG_1.png,,,M_056_A,M_056_B,,Vous êtes en retard sur vos devoirs,Devoirs maison,27
+M_056_A,,0_2,3_-2,,,,Faire nuit blanche pour les terminer,,
+M_056_B,,0_1_2,-2_-1_2,,,,Bacler le travail,,
+M_057,BG_4.png,,,M_057_A,M_057_B,,C'est la game week !! ,Overbooké,18
+M_057_A,,0_2,2_-2,M_061,,,Faire des heures supp' sur place,,
+M_057_B,,1_2,-1_2,M_058,,,Rentrer chez vous et travaillez peu,,
+M_058,BG_5.png,,,M_058_A,M_058_B,,Vous lisez une annonce dans votre boulangerie pour de l'aide aux devoirs scolaires,Aide aux devoirs,22
+M_058_A,,1_2,1_-1,M_059,,150,Appeler le numéro,,
+M_058_B,,0,-2,M_060,,,Ignorer l'annonce,,
+M_059,BG_3.png,,,M_059_A,M_059_B,,Vous attrapez la grippe !,Maladie,27
+M_059_A,,0_2,-1_2,,,,Je devrai aller voir le médecin,,
+M_059_B,,0_2,-1_-3,,,,"Tant pis, doliprane et go !",,
+M_060,BG_4.png,,,M_060_A,M_060_B,,Nouveau projet à l'école,Projet scolaire,27
+M_060_A,,0_1_2,3_2_-2,,,,Vous prenez les devants et guidez votre équipe,,
+M_060_B,,1_2,-2_-1,,,,Vous ne faites que ce qu'on vous demande,,
+M_061,BG_1.png,,,M_061_A,M_061_B,,Vous n'avez pas entendu votre réveil ce matin,Retard,22
+M_061_A,,0_2,-3_1,M_062,,,Arriver en cours sans se doucher,,
+M_061_B,,1_2,-1_3,M_063,,,Sécher la matinée,,
+M_062,BG_5.png,,,M_062_A,M_062_B,,Le jeu que vous attendiez tant est enfin sorti !,Fry Car 5,27
+M_062_A,,0_2,3_-2,,,-80,Foncer l'acheter à la FNOC,,
+M_062_B,,0,-3,,,,Vous ne pouvez pas vous permettre ce plaisir,,
+M_063,BG_5.png,,,M_063_A,M_063_B,,On vous a recommendé pour de l'aide aux devoirs,Aide aux devoirs,27
+M_063_A,,1_2,2_-1,,,150,"Acceptez, vous avez besoin d'argent",,
+M_063_B,,0_2,-1_2,,,,"Refusez, vous avez trop de travail en ce moment",,

@@ -1,0 +1,189 @@
+S_001,BG_1.png,,,S_001_A,S_001_B,,Votre ami Ludovic vous appelle pour vous demander ce que vous faites ce soir,Appel Ludovic,0
+S_001_A,,1_2,1_-2,S_002,,-50,Le rejoindre au bar,,
+S_001_B,,0_2,1_-1,S_033,,,L'inviter chez vous,,
+S_002,BG_1.png,,,S_002_A,S_002_B,,C'est l'anniversaire de votre meilleur ami,Anniversaire,4
+S_002_A,,1_2,2_-3,S_003,,-300,Privatiser un bar,,
+S_002_B,,0_2,2_-3,S_018,,-100,Préparer une super soirée ,,
+S_003,BG_5.png,,,S_003_A,S_003_B,,C'est la nuit des musées,Visites nocturnes,7
+S_003_A,,1_2,1_-2,S_004,,,Tournée entre amis,,
+S_003_B,,1_2,-2_1,S_011,,,Partir en solitaire,,
+S_004,BG_5.png,,,S_004_A,S_004_B,,Vous avez envie de faire quelque chose ce soir,Envie de boisson,14
+S_004_A,,1_2,2_-1,S_005,,-75,Proposer un verre à des amis,,
+S_004_B,,0_1,2_2,S_008,,,Improviser un tournoi de Tekken à la maison,,
+S_005,BG_5.png,,,S_005_A,S_005_B,,C'est la courses des couleurs ! ,Color me rad,18
+S_005_A,,0_1_2,3_1_-3,S_006,,,Go courir ! ,,
+S_005_B,,0_1_2,-2_-2_1,S_007,,,Pas intéressé,,
+S_006,BG_2.png,,,S_006_A,S_006_B,,Un artiste que vous adorez passe en boîte ce soir,Nightclub,27
+S_006_A,,1_2,2_-2,,,-50,Vous y allez avec vos amis,,
+S_006_B,,0_1,1_-2,,,,Vous le passez en boucle sur Youtube,,
+S_007,BG_5.png,,,S_007_A,S_007_B,,Un film très attendu est enfin sorti en salles ! ,Box office,27
+S_007_A,,0_1_2,2_1_-1,,,-20,Vous allez le voir le jour de sa sortie,,
+S_007_B,,0_1,-2_-1,,,,Vous attendrez qu'il sorte sur internet,,
+S_008,BG_2.png,,,S_008_A,S_008_B,,Concert de Kanye West ! ,Concert épique,18
+S_008_A,,0_1_2,3_1_-3,S_009,,-150,Acheter vos places,,
+S_008_B,,1_2,-3_3,S_010,,,Vous n'aimez pas Kanye West,,
+S_009,BG_1.png,,,S_009_A,S_009_B,,Vos camarades de classe organisent des soirées Jeu de Rôles,Aventures entre amis,27
+S_009_A,,0_2,2_-1,,,,Trop bien ! Vous participez,,
+S_009_B,,1_2,-1_2,,,,C'est pas trop votre délire,,
+S_010,BG_1.png,,,S_010_A,S_010_B,,Week-end de 3 jours !,Grand week-end,27
+S_010_A,,0_2,3_2,,,-100,Vous partez à la campagne,,
+S_010_B,,2,5,,,,Vous restez chez vous vous reposer,,
+S_011,BG_1.png,,,S_011_A,S_011_B,,Vous découvrez un humoriste qui vous fait pleurer de rire,Aletz Lux,14
+S_011_A,,0_1,3_1,S_012,,-100,Achetez 2 places pour un spectacle,,
+S_011_B,,0_1_2,1_-1_2,S_015,,,Regardez ses sketchs sur internet,,
+S_012,BG_2.png,,,S_012_A,S_012_B,,Un artiste que vous adorez passe en boîte ce soir,Nightclub,18
+S_012_A,,1_2,2_-2,S_013,,-50,Vous y allez avec vos amis,,
+S_012_B,,0_1,1_-2,S_014,,,Vous le passez en boucle sur Youtube,,
+S_013,BG_5.png,,,S_013_A,S_013_B,,Un film très attendu est enfin sorti en salles ! ,Box office,27
+S_013_A,,0_1_2,2_1_-1,,,-20,Vous allez le voir le jour de sa sortie,,
+S_013_B,,0_1,-2_-1,,,,Vous attendrez qu'il sorte sur internet,,
+S_014,BG_1.png,,,S_014_A,S_014_B,,Vous avez rencontré quelqu'un dans un bar et souhaitez vous revoir,Rencard,27
+S_014_A,,0_2,2_-3,,,-40,Organiser un dîner chez vous,,
+S_014_B,,0_1,3_-2,,,-120,Réserver un table dans un restaurant,,
+S_015,BG_1.png,,,S_015_A,S_015_B,,Vos camarades de classe organisent des soirées Jeu de Rôles,Aventures entre amis,18
+S_015_A,,0_2,2_-1,S_016,,,Trop bien ! Vous participez,,
+S_015_B,,1_2,-1_2,S_017,,,C'est pas trop votre délire,,
+S_016,BG_5.png,,,S_016_A,S_016_B,,Concert de Kanye West ! ,Concert épique,27
+S_016_A,,0_1_2,3_1_-3,,,-150,Acheter vos places,,
+S_016_B,,1_2,-3_3,,,,Vous n'aimez pas Kanye West,,
+S_017,BG_1.png,,,S_017_A,S_017_B,,On vous invite à une soirée,Soirée chez un inconnu,27
+S_017_A,,0_1,1_3,,,-60,Vous rapportez une bouteille de qualité,,
+S_017_B,,0_1,3_-1,,,,Vous venez les mains vides,,
+S_018,BG_5.png,,,S_018_A,S_018_B,,Vous avez rencontré quelqu'un dans un bar et souhaitez vous revoir,Rencard,7
+S_018_A,,0_2,2_-3,S_019,,-40,Organiser un dîner chez vous,,
+S_018_B,,0_1,3_-2,S_026,,-120,Réserver un table dans un restaurant,,
+S_019,BG_2.png,,,S_019_A,S_019_B,,Une amie vous propose d'aller voir une pièce de théâtre,Proposition théâtrale,14
+S_019_A,,1_2,-1_3,S_020,,,"Décliner, vous n'aimez pas trop le théâtre",,
+S_019_B,,0_1,2_1,S_023,,-150,Acheter deux places sur internet,,
+S_020,BG_5.png,,,S_020_A,S_020_B,,C'est la courses des couleurs ! ,Color me rad,18
+S_020_A,,0_1_2,3_1_-3,S_021,,,Go courir ! ,,
+S_020_B,,0_1_2,-2_-2_1,S_022,,,Pas intéressé,,
+S_021,BG_1.png,,,S_021_A,S_021_B,,Vos camarades de classe organisent des soirées Jeu de Rôles,Aventures entre amis,27
+S_021_A,,0_2,2_-1,,,,Trop bien ! Vous participez,,
+S_021_B,,1_2,-1_2,,,,C'est pas trop votre délire,,
+S_022,BG_1.png,,,S_022_A,S_022_B,,Vous avez un match sur Tinder !,Match fortuit,27
+S_022_A,,0_1_2,-1_1_1,,,-10,Proposer un café,,
+S_022_B,,0_1_2,2_1_-2,,,-30,Proposer un verre,,
+S_023,BG_1.png,,,S_023_A,S_023_B,,Vous découvrez un humoriste qui vous fait pleurer de rire,Aletz Lux,18
+S_023_A,,0_1,3_1,S_024,,-100,Achetez deux places pour un spectacle,,
+S_023_B,,0_1_2,1_-1_2,S_025,,,Regardez ses sketchs sur internet,,
+S_024,BG_5.png,,,S_024_A,S_024_B,,Vous avez envie de faire quelque chose ce soir,Envie de boisson,27
+S_024_A,,1_2,2_-1,,,-75,Proposer un verre à des amis,,
+S_024_B,,0_1,2_2,,,,Improviser un tournoi de Tekken à la maison,,
+S_025,BG_1.png,,,S_025_A,S_025_B,,Week-end de 3 jours !,Grand week-end,27
+S_025_A,,0_2,3_2,,,-100,Vous partez à la campagne,,
+S_025_B,,2,5,,,,Vous restez chez vous vous reposer,,
+S_026,BG_1.png,,,S_026_A,S_026_B,,Vous découvrez un humoriste qui vous fait pleurer de rire,Aletz Lux,14
+S_026_A,,0_1,3_1,S_027,,-100,Achetez deux places pour un spectacle,,
+S_026_B,,0_1_2,1_-1_2,S_030,,,Regardez ses sketchs sur internet,,
+S_027,BG_2.png,,,S_027_A,S_027_B,,Une amie vous propose d'aller voir une pièce de théâtre,Proposition théâtrale,18
+S_027_A,,1_2,-1_3,S_028,,,"Décliner, vous n'aimez pas trop le théâtre",,
+S_027_B,,0_1,2_1,S_029,,-150,Acheter deux places sur internet,,
+S_028,BG_1.png,,,S_028_A,S_028_B,,Week-end de 3 jours !,Grand week-end,27
+S_028_A,,0_2,3_2,,,-100,Vous partez à la campagne,,
+S_028_B,,2,5,,,,Vous restez chez vous vous reposer,,
+S_029,BG_5.png,,,S_029_A,S_029_B,,Un film très attendu est enfin sorti en salles ! ,Box office,27
+S_029_A,,0_1_2,2_1_-1,,,-20,Vous allez le voir le jour de sa sortie,,
+S_029_B,,0_1,-2_-1,,,,Vous attendrez qu'il sorte sur internet,,
+S_030,BG_1.png,,,S_030_A,S_030_B,,Week-end de 3 jours !,Grand week-end,18
+S_030_A,,0_2,3_2,S_031,,-100,Vous partez à la campagne,,
+S_030_B,,2,5,S_032,,,Vous restez chez vous vous reposer,,
+S_031,BG_2.png,,,S_031_A,S_031_B,,On vous invite à une soirée,Soirée chez un inconnu,27
+S_031_A,,0_1,1_3,,,-60,Vous rapportez une bouteille de qualité,,
+S_031_B,,0_1,3_-1,,,,Vous venez les mains vides,,
+S_032,BG_5.png,,,S_032_A,S_032_B,,C'est la nuit des musées,Visites nocturnes,27
+S_032_A,,1_2,1_-2,,,,Tournée entre amis,,
+S_032_B,,1_2,-2_1,,,,Partir en solitaire,,
+S_033,BG_5.png,,,S_033_A,S_033_B,,C'est la nuit des musées,Visites nocturnes,4
+S_033_A,,1_2,1_-2,S_034,,,Tournée entre amis,,
+S_033_B,,1_2,-2_1,S_049,,,Partir en solitaire,,
+S_034,BG_1.png,,,S_034_A,S_034_B,,Vos camarades de classe organisent des soirées Jeu de Rôles,Aventures entre amis,7
+S_034_A,,0_2,2_-1,S_035,,,Trop bien ! Vous participez,,
+S_034_B,,1_2,-1_2,S_042,,,C'est pas trop votre délire,,
+S_035,BG_4.png,,,S_035_A,S_035_B,,Vous découvrez un humoriste qui vous fait pleurer de rire,Aletz Lux,14
+S_035_A,,0_1,3_1,S_036,,-100,Achetez deux places pour un spectacle,,
+S_035_B,,0_1_2,1_-1_2,S_039,,,Regardez ses sketchs sur internet,,
+S_036,BG_5.png,,,S_036_A,S_036_B,,Vous avez envie de faire quelque chose ce soir,Envie de boisson,18
+S_036_A,,1_2,2_-1,S_037,,-75,Proposer un verre à des amis,,
+S_036_B,,0_1,2_2,S_038,,,Improviser un tournoi de Tekken à la maison,,
+S_037,BG_2.png,,,S_037_A,S_037_B,,Vous avez rencontré quelqu'un dans un bar et souhaitez vous revoir,Rencard,27
+S_037_A,,0_2,2_-3,,,-40,Organiser un dîner chez vous,,
+S_037_B,,0_1,3_-2,,,-120,Réserver un table dans un restaurant,,
+S_038,BG_1.png,,,S_038_A,S_038_B,,C'est l'anniversaire de votre meilleur ami,Anniversaire,27
+S_038_A,,1_2,2_-3,,,-300,Privatiser un bar,,
+S_038_B,,0_2,2_-3,,,-100,Préparer une super soirée ,,
+S_039,BG_5.png,,,S_039_A,S_039_B,,Un film très attendu est enfin sorti en salles ! ,Box office,18
+S_039_A,,0_1_2,2_1_-1,S_040,,-20,Vous allez le voir le jour de sa sortie,,
+S_039_B,,0_1,-2_-1,S_041,,,Vous attendrez qu'il sorte sur internet,,
+S_040,BG_1.png,,,S_040_A,S_040_B,,Week-end de 3 jours !,Grand week-end,27
+S_040_A,,0_2,3_2,,,-100,Vous partez à la campagne,,
+S_040_B,,2,5,,,,Vous restez chez vous vous reposer,,
+S_041,BG_2.png,,,S_041_A,S_041_B,,Un artiste que vous adorez passe en boîte ce soir,Nightclub,27
+S_041_A,,1_2,2_-2,,,-50,Vous y allez avec vos amis,,
+S_041_B,,0_1,1_-2,,,,Vous le passez en boucle sur Youtube,,
+S_042,BG_2.png,,,S_042_A,S_042_B,,Une amie vous propose d'aller voir une pièce de théâtre,Proposition théâtrale,14
+S_042_A,,1_2,-1_3,S_043,,,"Décliner, vous n'aimez pas trop le théâtre",,
+S_042_B,,0_1,2_1,S_046,,-150,Acheter deux places sur internet,,
+S_043,BG_1.png,,,S_043_A,S_043_B,,Vous avez rencontré quelqu'un dans un bar et souhaitez vous revoir,Rencard,18
+S_043_A,,0_2,2_-3,S_044,,-40,Organiser un dîner chez vous,,
+S_043_B,,0_1,3_-2,S_045,,-120,Réserver un table dans un restaurant,,
+S_044,BG_5.png,,,S_044_A,S_044_B,,C'est la courses des couleurs ! ,Color me rad,27
+S_044_A,,0_1_2,3_1_-3,,,,Go courir ! ,,
+S_044_B,,0_1_2,-2_-2_1,,,,Pas intéressé,,
+S_045,BG_5.png,,,S_045_A,S_045_B,,On vous invite à une soirée,Soirée chez un inconnu,27
+S_045_A,,0_1,1_3,,,-60,Vous rapportez une bouteille de qualité,,
+S_045_B,,0_1,3_-1,,,,Vous venez les mains vides,,
+S_046,BG_1.png,,,S_046_A,S_046_B,,Vous avez un match sur Tinder !,Match fortuit,18
+S_046_A,,0_1_2,-1_1_1,S_047,,-10,Proposer un café,,
+S_046_B,,0_1_2,2_1_-2,S_048,,-30,Proposer un verre,,
+S_047,BG_2.png,,,S_047_A,S_047_B,,Concert de Kanye West ! ,Concert épique,27
+S_047_A,,0_1_2,3_1_-3,,,-150,Acheter vos places,,
+S_047_B,,1_2,-3_3,,,,Vous n'aimez pas Kanye West,,
+S_048,BG_5.png,,,S_048_A,S_048_B,,C'est l'anniversaire de votre meilleur ami,Anniversaire,27
+S_048_A,,1_2,2_-3,,,-300,Privatiser un bar,,
+S_048_B,,0_2,2_-3,,,-100,Préparer une super soirée ,,
+S_049,BG_5.png,,,S_049_A,S_049_B,,C'est la courses des couleurs ! ,Color me rad,7
+S_049_A,,0_1_2,3_1_-3,S_050,,,Go courir ! ,,
+S_049_B,,0_1_2,-2_-2_1,S_057,,,Pas intéressé,,
+S_050,BG_2.png,,,S_050_A,S_050_B,,Concert de Kanye West ! ,Concert épique,14
+S_050_A,,0_1_2,3_1_-3,S_051,,-150,Acheter vos places,,
+S_050_B,,1_2,-3_3,S_054,,,Vous n'aimez pas Kanye West,,
+S_051,BG_1.png,,,S_051_A,S_051_B,,Une amie vous propose d'aller voir une pièce de théâtre,Proposition théâtrale,18
+S_051_A,,1_2,-1_3,S_052,,,"Décliner, vous n'aimez pas trop le théâtre",,
+S_051_B,,0_1,2_1,S_053,,-150,Acheter deux places sur internet,,
+S_052,BG_1.png,,,S_052_A,S_052_B,,Week-end de 3 jours !,Grand week-end,27
+S_052_A,,0_2,3_2,,,-100,Vous partez à la campagne,,
+S_052_B,,2,5,,,,Vous restez chez vous vous reposer,,
+S_053,BG_2.png,,,S_053_A,S_053_B,,Un artiste que vous adorez passe en boîte ce soir,Nightclub,27
+S_053_A,,1_2,2_-2,,,-50,Vous y allez avec vos amis,,
+S_053_B,,0_1,1_-2,,,,Vous le passez en boucle sur Youtube,,
+S_054,BG_2.png,,,S_054_A,S_054_B,,On vous invite à une soirée,Soirée chez un inconnu,18
+S_054_A,,0_1,1_3,S_055,,,Vous rapportez une bouteille de qualité,,
+S_054_B,,0_1,3_-1,S_056,,,Vous venez les mains vides,,
+S_055,BG_5.png,,,S_055_A,S_055_B,,Un film très attendu est enfin sorti en salles ! ,Box office,27
+S_055_A,,0_1_2,2_1_-1,,,-20,Vous allez le voir le jour de sa sortie,,
+S_055_B,,0_1,-2_-1,,,,Vous attendrez qu'il sorte sur internet,,
+S_056,BG_1.png,,,S_056_A,S_056_B,,Vous avez envie de faire quelque chose ce soir,Envie de boisson,27
+S_056_A,,1_2,2_-1,,,-75,Proposer un verre à des amis,,
+S_056_B,,0_1,2_2,,,,Improviser un tournoi de Tekken à la maison,,
+S_057,BG_1.png,,,S_057_A,S_057_B,,Week-end de 3 jours !,Grand week-end,14
+S_057_A,,0_2,3_2,S_058,,-100,Vous partez à la campagne,,
+S_057_B,,2,5,S_061,,,Vous restez chez vous vous reposer,,
+S_058,BG_4.png,,,S_058_A,S_058_B,,Un artiste que vous adorez passe en boîte ce soir,Nightclub,18
+S_058_A,,1_2,2_-2,S_059,,-50,Vous y allez avec vos amis,,
+S_058_B,,0_1,1_-2,S_060,,,Vous le passez en boucle sur Youtube,,
+S_060,BG_5.png,,,S_060_A,S_060_B,,Une amie vous propose d'aller voir une pièce de théâtre,Proposition théâtrale,27
+S_060_A,,1_2,-1_3,,,,"Décliner, vous n'aimez pas trop le théâtre",,
+S_060_B,,0_1,2_1,,,-150,Acheter deux places sur internet,,
+S_059,BG_4.png,,,S_059_A,S_059_B,,Vous avez rencontré quelqu'un dans un bar et souhaitez vous revoir,Rencard,27
+S_059_A,,0_2,2_-3,,,-40,Organiser un dîner chez vous,,
+S_059_B,,0_1,3_-2,,,-120,Réserver un table dans un restaurant,,
+S_061,BG_4.png,,,S_061_A,S_061_B,,Concert de Kanye West ! ,Concert épique,18
+S_061_A,,0_1_2,3_1_-3,S_062,,-150,Acheter vos places,,
+S_061_B,,1_2,-3_3,S_063,,,Vous n'aimez pas Kanye West,,
+S_062,BG_1.png,,,S_062_A,S_062_B,,On vous invite à une soirée,Soirée chez un inconnu,27
+S_062_A,,0_1,1_3,,,-60,Vous rapportez une bouteille de qualité,,
+S_062_B,,0_1,3_-1,,,,Vous venez les mains vides,,
+S_063,BG_1.png,,,S_063_A,S_063_B,,Vous avez un match sur Tinder !,Match fortuit,27
+S_063_A,,0_1_2,-1_1_1,,,-10,Proposer un café,,
+S_063_B,,0_1_2,2_1_-2,,,-30,Proposer un verre,,

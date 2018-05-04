@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Pay The Bill/Assets/Scripts/Event/Event.cs.meta
+guid: 9c2618c4ffa27b249958c4f06fde9a33
+timeCreated: 1523372815
+=======
+guid: c0c2c9ca53921574a857be7b192f16ab
+timeCreated: 1523302800
+>>>>>>> ludo:Pay The Bill/Assets/Scripts/Managers/GameManager.cs.meta
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,189 @@
+E_001,BG_5.png,,,E_001_A,E_001_B,,Vous avez besoin de nouvelles fournitures scolaires !,Début d'année,0
+E_001_A,,2,-3,E_002,,-400,Vous faites un stock pour l'année,,
+E_001_B,,2,-1,E_033,,40,Vous ne prenez que le nécessaire,,
+E_002,BG_1.png,,,E_002_A,E_002_B,,Vous devez souscrire à un abonnement internet,Abonnement Internet,7
+E_002_A,,0,2,E_003,,-70,Prendre la formule tout compris,,
+E_002_B,,0,1,E_018,,-25,Prendre l'abonnement internet seul,,
+E_003,BG_1.png,,,E_003_A,E_003_B,,Il vous faut une nouvelle chaise de bureau,Aeeeeki,10
+E_003_A,,1_2,2_-1,E_004,,-50,Vous faites les brocantes,,
+E_003_B,,2,-3,E_011,,-100,Vous allez chez Aeki,,
+E_004,BG_1.png,,,E_004_A,E_004_B,,Vous regardez un documentaire sur les abattoirs en France,Visions d'horreurs,14
+E_004_A,,0_1,2_-1,E_005,,,Vous devenez vegan,,
+E_004_B,,0_1,-2_1,E_008,,,Vous dormez mal,,
+E_005,BG_1.png,,,E_005_A,E_005_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,22
+E_005_A,,0,-2,E_006,,-40,Vous commandez sur internet,,
+E_005_B,,1_2,2_-2,E_007,,-50,Vous allez faire les courses,,
+E_006,BG_1.png,,,E_006_A,E_006_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,27
+E_006_A,,0_2,2_-1,,,,Les descendre maintenant,,
+E_006_B,,0_1,-2_-2,,,,Vous vous en occuperez demain,,
+E_007,BG_1.png,,,E_007_A,E_007_B,,La vaisselle s'entasse dans votre évier,Pas de lave-vaisselle,27
+E_007_A,,1,-2,,,-15,Vous achetez des assiettes en carton,,
+E_007_B,,0_2,2_-2,,,,Vous organisez un planning de nettoyage,,
+E_008,BG_1.png,,,E_008_A,E_008_B,,Vous souhaitez une présence domestique chez vous,Besoin de compagnie,22
+E_008_A,,0,1,E_009,,-25,Vous achetez un poisson rouge,,
+E_008_B,,0_2,3_-1,E_010,,-150,Vous achetez un chat,,
+E_009,BG_1.png,,,E_009_A,E_009_B,,Vos parents viennent diner chez vous ce soir,Parents à la maison,27
+E_009_A,,0_1,2_-2,,,-75,Commander en ligne,,
+E_009_B,,0_2,1_-1,,,-40,Préparer le diner vous même,,
+E_010,BG_1.png,,,E_010_A,E_010_B,,"En l'enfilant, vous remarquez que votre jean a des trous",Fringues flinguées,27
+E_010_A,,0_2,1_-1,,,,Vous vous improvisez couturier,,
+E_010_B,,1_2,1_-2,,,-90,Vous en achetez un nouveau,,
+E_011,BG_1.png,,,E_011_A,E_011_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,14
+E_011_A,,0_2,-2_1,E_012,,,"Trop de fatigue, vous reportez",,
+E_011_B,,1_2,2_-1,E_015,,,Rangez votre appartement,,
+E_012,BG_5.png,,,E_012_A,E_012_B,,Vous voudriez reprendre le sport,Poignées d'amour,22
+E_012_A,,0_2,3_-1,E_013,,-180,S'inscrire en club,,
+E_012_B,,0_2,-2_-1,E_014,,,Vous n'avez pas le temps !,,
+E_013,BG_5.png,,,E_013_A,E_013_B,,Vous cherchez une alternative aux transports en commun,C'est pas la RATP qui me quitte,27
+E_013_A,,0_2,-1_-2,,,-40,Vous prenez un abonnement Vélib,,
+E_013_B,,0_2,-1_2,,,-350,Vous achetez un scooter,,
+E_014,BG_1.png,,,E_014_A,E_014_B,,Vos parents viennent diner chez vous ce soir,Parents à la maison,27
+E_014_A,,0_1,2_-2,,,-75,Commander en ligne,,
+E_014_B,,0_2,1_-1,,,-40,Préparer le diner vous même,,
+E_015,BG_1.png,,,E_015_A,E_015_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,22
+E_015_A,,0_2,2_-1,E_016,,,Les descendre maintenant,,
+E_015_B,,0_1,-2_-2,E_017,,,Vous vous en occuperez demain,,
+E_016,BG_1.png,,,E_016_A,E_016_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,27
+E_016_A,,0,-2,,,-40,Vous commandez sur internet,,
+E_016_B,,1_2,2_-2,,,-50,Faites les courses pour la semaine,,
+E_017,BG_1.png,,,E_017_A,E_017_B,,La vaisselle s'entasse dans votre évier,Pas de lave-vaisselle,27
+E_017_A,,1,-2,,,-15,Vous achetez des assiettes en carton,,
+E_017_B,,0_2,2_-2,,,,Vous organisez un planning de nettoyage,,
+E_018,BG_5.png,,,E_018_A,E_018_B,,Vous cherchez une alternative aux transports en commun,C'est pas la RATP qui me quitte,10
+E_018_A,,0_2,-1_-2,E_019,,-40,Vous prenez un abonnement Vélib,,
+E_018_B,,0_2,-1_2,E_026,,-350,Vous achetez un scooter,,
+E_019,BG_5.png,,,E_019_A,E_019_B,,Vous voudriez reprendre le sport,Poignées d'amour,14
+E_019_A,,0_2,3_-1,E_020,,-180,S'inscrire en club,,
+E_019_B,,0_2,-2_-1,E_023,,,Vous n'avez pas le temps !,,
+E_020,BG_1.png,,,E_020_A,E_020_B,,Votre chaudière tombe en panne,Et la douche ?,22
+E_020_A,,2,-2,E_021,,-100,Appelez un réparateur,,
+E_020_B,,0_2,-2_-1,E_022,,,Mettez un gros pull,,
+E_021,BG_1.png,,,E_021_A,E_021_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,27
+E_021_A,,0,-2,,,-40,Vous commandez sur internet,,
+E_021_B,,1_2,2_-2,,,-50,Faites les courses pour la semaine,,
+E_022,BG_1.png,,,E_022_A,E_022_B,,Il vous faut une nouvelle chaise de bureau,Aeeeeki,27
+E_022_A,,1_2,2_-1,,,-50,Vous faites les brocantes,,
+E_022_B,,2,-3,,,-100,Vous allez chez Aeki,,
+E_023,BG_1.png,,,E_023_A,E_023_B,,"En l'enfilant, vous remarquez que votre jean a des trous",Fringues flinguées,22
+E_023_A,,0_2,1_-1,E_024,,,Vous vous improvisez couturier,,
+E_023_B,,1_2,1_-2,E_025,,-90,Vous en achetez un nouveau,,
+E_024,BG_1.png,,,E_024_A,E_024_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,27
+E_024_A,,0,-2,,,-40,Vous commandez sur internet,,
+E_024_B,,1_2,2_-2,,,-50,Faites les courses pour la semaine,,
+E_025,BG_1.png,,,E_025_A,E_025_B,,Vous souhaitez une présence domestique chez vous,Besoin de compagnie,27
+E_025_A,,0,1,,,-25,Vous achetez un poisson rouge,,
+E_025_B,,0_2,3_-1,,,-150,Vous achetez un chat,,
+E_026,BG_1.png,,,E_026_A,E_026_B,,Votre chaudière tombe en panne,Et la douche ?,14
+E_026_A,,2,-2,E_027,,-100,Appelez un réparateur,,
+E_026_B,,0_2,-2_-1,E_030,,,Mettez un gros pull,,
+E_027,BG_1.png,,,E_027_A,E_027_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,22
+E_027_A,,0,-2,E_028,,-40,Vous commandez sur internet,,
+E_027_B,,1_2,2_-2,E_029,,-50,Faites les courses pour la semaine,,
+E_028,BG_1.png,,,E_028_A,E_028_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,27
+E_028_A,,0_2,2_-1,,,,Les descendre maintenant,,
+E_028_B,,0_1,-2_-2,,,,Vous vous en occuperez demain,,
+E_029,BG_1.png,,,E_029_A,E_029_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,27
+E_029_A,,0_2,-2_1,,,,"Trop de fatigue, vous reportez",,
+E_029_B,,1_2,2_-1,,,,Rangez votre appartement,,
+E_030,BG_5.png,,,E_030_A,E_030_B,,Il vous faut une nouvelle chaise de bureau,Aeeeeki,22
+E_030_A,,1_2,2_-1,E_031,,-50,Vous faites les brocantes,,
+E_030_B,,2,-3,E_032,,-100,Vous allez chez Aeki,,
+E_031,BG_1.png,,,E_031_A,E_031_B,,La vaisselle s'entasse dans votre évier,Pas de lave-vaisselle,27
+E_031_A,,1,-2,,,-15,Vous achetez des assiettes en carton,,
+E_031_B,,0_2,2_-2,,,,Vous organisez un planning de nettoyage,,
+E_032,BG_1.png,,,E_032_A,E_032_B,,Vous regardez un documentaire sur les abattoirs en France,Visions d'horreurs,27
+E_032_A,,0_1,2_-1,,,,Vous devenez vegan,,
+E_032_B,,0_1,-2_1,,,,Vous dormez mal,,
+E_033,BG_1.png,,,E_033_A,E_033_B,,Vos parents viennent diner chez vous ce soir,Parents à la maison,7
+E_033_A,,0_1,2_-2,E_034,,-75,Commander en ligne,,
+E_033_B,,0_2,1_-1,E_049,,-40,Préparer le diner vous même,,
+E_034,BG_1.png,,,E_034_A,E_034_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,10
+E_034_A,,0_2,-2_1,E_035,,,"Trop de fatigue, vous reportez",,
+E_034_B,,1_2,2_-1,E_042,,,Rangez votre appartement,,
+E_035,BG_1.png,,,E_035_A,E_035_B,,Vous regardez un documentaire sur les abattoirs en France,Visions d'horreurs,14
+E_035_A,,0_1,2_-1,E_036,,,Vous devenez vegan,,
+E_035_B,,0_1,-2_1,E_039,,,Vous dormez mal,,
+E_036,BG_1.png,,,E_036_A,E_036_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,22
+E_036_A,,0,-2,E_037,,-40,Vous commandez sur internet,,
+E_036_B,,1_2,2_-2,E_038,,-50,Faites les courses pour la semaine,,
+E_037,BG_1.png,,,E_037_A,E_037_B,,La vaisselle s'entasse dans votre évier,Pas de lave-vaisselle,27
+E_037_A,,1,-2,,,-15,Vous achetez des assiettes en carton,,
+E_037_B,,0_2,2_-2,,,,Vous organisez un planning de nettoyage,,
+E_038,BG_1.png,,,E_038_A,E_038_B,,Vos parents reviennent diner chez vous ce soir,Parents à la maison,27
+E_038_A,,0_1,2_-2,,,-75,Qu'ils ramènent le dessert !,,
+E_038_B,,0_2,1_-1,,,-40,Ou plutôt le plat ! ,,
+E_039,BG_1.png,,,E_039_A,E_039_B,,Vous souhaitez une présence domestique chez vous,Besoin de compagnie,22
+E_039_A,,0,1,E_040,,-25,Vous achetez un poisson rouge,,
+E_039_B,,0_2,3_-1,E_041,,-150,Vous achetez un chat,,
+E_040,BG_1.png,,,E_040_A,E_040_B,,Votre chaudière tombe en panne,Et la douche ?,27
+E_040_A,,2,-2,,,-100,Appelez un réparateur,,
+E_040_B,,0_2,-2_-1,,,,Mettez un gros pull,,
+E_041,BG_1.png,,,E_041_A,E_041_B,,"En l'enfilant, vous remarquez que votre jean a des trous",Fringues flinguées,27
+E_041_A,,0_2,1_-1,,,,Vous vous improvisez couturier,,
+E_041_B,,1_2,1_-2,,,-90,Vous en achetez un nouveau,,
+E_042,BG_1.png,,,E_042_A,E_042_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,14
+E_042_A,,0,-2,E_043,,-40,Vous commandez sur internet,,
+E_042_B,,1_2,2_-2,E_046,,-50,Faites les courses pour la semaine,,
+E_043,BG_1.png,,,E_043_A,E_043_B,,"En l'enfilant, vous remarquez que votre jean a des trous",Fringues flinguées,22
+E_043_A,,0_2,1_-1,E_044,,,Vous vous improvisez couturier,,
+E_043_B,,1_2,1_-2,E_045,,-90,Vous en achetez un nouveau,,
+E_044,BG_5.png,,,E_044_A,E_044_B,,Il vous faut une nouvelle chaise de bureau,Aeeeeki,27
+E_044_A,,1_2,2_-1,,,-50,Vous faites les brocantes,,
+E_044_B,,2,-3,,,-100,Vous allez chez Aeki,,
+E_045,BG_1.png,,,E_045_A,E_045_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,27
+E_045_A,,0_2,2_-1,,,,Les descendre maintenant,,
+E_045_B,,0_1,-2_-2,,,,Vous vous en occuperez demain,,
+E_046,BG_1.png,,,E_046_A,E_046_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,22
+E_046_A,,0_2,2_-1,E_047,,,Les descendre maintenant,,
+E_046_B,,0_1,-2_-2,E_048,,,Vous vous en occuperez demain,,
+E_047,BG_5.png,,,E_047_A,E_047_B,,Vous cherchez une alternative aux transports en commun,C'est pas la RATP qui me quitte,27
+E_047_A,,0_2,-1_-2,,,-40,Vous prenez un abonnement Vélib,,
+E_047_B,,0_2,-1_2,,,-350,Vous achetez un scooter,,
+E_048,BG_1.png,,,E_048_A,E_048_B,,La vaisselle s'entasse dans votre évier,Pas de lave-vaisselle,27
+E_048_A,,1,-2,,,-15,Vous achetez des assiettes en carton,,
+E_048_B,,0_2,2_-2,,,,Vous organisez un planning de nettoyage,,
+E_049,BG_1.png,,,E_049_A,E_049_B,,Il vous faut une nouvelle chaise de bureau,Aeeeeki,10
+E_049_A,,1_2,2_-1,E_050,,-50,Vous faites les brocantes,,
+E_049_B,,2,-3,E_057,,-100,Vous allez chez Aeki,,
+E_050,BG_1.png,,,E_050_A,E_050_B,,Vous devez souscrire à un abonnement internet,Abonnement Internet,14
+E_050_A,,0,2,E_051,,-70,Prendre la formule tout compris,,
+E_050_B,,0,1,E_054,,-25,Prendre l'abonnement internet seul,,
+E_051,BG_5.png,,,E_051_A,E_051_B,,Vous cherchez une alternative aux transports en commun,C'est pas la RATP qui me quitte,22
+E_051_A,,0_2,-1_-2,E_052,,-40,Vous prenez un abonnement Vélib,,
+E_051_B,,0_2,-1_2,E_053,,-350,Vous achetez un scooter,,
+E_052,BG_1.png,,,E_052_A,E_052_B,,Vous voudriez reprendre le sport,Poignées d'amour,27
+E_052_A,,0_2,3_-1,,,-180,S'inscrire en club,,
+E_052_B,,0_2,-2_-1,,,,Aller s'entraîner avec des potes,,
+E_053,BG_1.png,,,E_053_A,E_053_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,27
+E_053_A,,0_2,-2_1,,,,"Trop de fatigue, vous reportez",,
+E_053_B,,1_2,2_-1,,,,Rangez votre appartement,,
+E_054,BG_1.png,,,E_054_A,E_054_B,,Votre chaudière tombe en panne,Et la douche ?,22
+E_054_A,,2,-2,E_055,,-100,Appelez un réparateur,,
+E_054_B,,0_2,-2_-1,E_056,,,Mettez un gros pull,,
+E_055,BG_1.png,,,E_055_A,E_055_B,,Vous souhaitez une présence domestique chez vous,Besoin de compagnie,27
+E_055_A,,0,1,,,-25,Vous achetez un poisson rouge,,
+E_055_B,,0_2,3_-1,,,-150,Vous achetez un chat,,
+E_056,BG_1.png,,,E_056_A,E_056_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,27
+E_056_A,,0_2,-2_1,,,,"C'est trop le bordel, la flemme",,
+E_056_B,,1_2,2_-1,,,,Rangez votre appartement !,,
+E_057,BG_1.png,,,E_057_A,E_057_B,,Vous souhaitez une présence domestique chez vous,Besoin de compagnie,14
+E_057_A,,0,1,E_058,,-25,Vous achetez un poisson rouge,,
+E_057_B,,0_2,3_-1,E_061,,-150,Vous achetez un chat,,
+E_058,BG_1.png,,,E_058_A,E_058_B,,Vous voulez organiser une soirée entre amis chez vous,Tiraillé de toute part,22
+E_058_A,,0_2,-2_1,E_059,,,"Trop de travail, vous reportez",,
+E_058_B,,1_2,2_-1,E_060,,,Rangez votre appartement,,
+E_060,BG_1.png,,,E_060_A,E_060_B,,Vous regardez un documentaire sur les abattoirs en France,Visions d'horreurs,27
+E_060_A,,0_1,2_-1,,,,Vous devenez vegan,,
+E_060_B,,0_1,-2_1,,,,Vous dormez un peu mal,,
+E_059,BG_1.png,,,E_059_A,E_059_B,,Il vous faut une nouvelle lampe de bureau,Aeeeeki,27
+E_059_A,,1_2,2_-1,,,-50,Vous refaites les brocantes,,
+E_059_B,,2,-3,,,-100,Vous retournez chez Aeki,,
+E_061,BG_1.png,,,E_061_A,E_061_B,,"En l'enfilant, vous remarquez que votre jean a des trous",Fringues flinguées,22
+E_061_A,,0_2,1_-1,E_062,,,Vous vous improvisez couturier,,
+E_061_B,,1_2,1_-2,E_063,,-90,Vous en achetez un nouveau,,
+E_062,BG_1.png,,,E_062_A,E_062_B,,Votre frigo est vide et votre estomac crie famine,Marre des pâtes !,27
+E_062_A,,0,-2,,,-40,Vous commandez sur internet,,
+E_062_B,,1_2,2_-2,,,-50,Faites les courses pour la semaine,,
+E_063,BG_1.png,,,E_063_A,E_063_B,,Les poubelles s'entassent chez vous,La crasse s'entasse,27
+E_063_A,,0_2,2_-1,,,,Les descendre maintenant,,
+E_063_B,,0_1,-2_-2,,,,Vous vous en occuperez demain,,
